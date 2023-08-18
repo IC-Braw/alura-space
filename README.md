@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+<h1 align=center> <p>Alura-Space</p>
+<img src=https://github.com/IC-Braw/alura-space/assets/119905716/8abd41f1-4518-45ee-abca-3310d9e26aed#vitrinedev alt=Pagina Inicial do Alura Space width=90%></h1>
+<h2>React com JavaScript: Lidando com arquivos estáticos</h2>
+<p>Este projeto foi realizado no curso "React com JavaScript: Lidando com arquivos estáticos" da Alura.</p>
+<p>O projeto representa um reforço do mundo do React.js. No curso, o aluno desenvolve um projeto criando componentes estáticos.</p>
+<p>Entre os principais conteúdos, a novidade esteve no uso do Sass para desenvolver o estilo. Mesmo tendo foco no estático, a página ainda faz o uso de props e sua relação com funções puras e também o trabalho com os states.</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>O design do projeto foi disponibilizado no Figma. A funcionalidade principal está na filtragem dos conteúdos da galeria</p>
 
-## Available Scripts
+<h2><video align=center width=40% controls="controls" autoplay="autoplay" src=https://github.com/IC-Braw/alura-space/assets/119905716/f6151e84-0c9e-46af-b170-7308643693ce#vitrinedev type="video/mp4"></h2>
 
-In the project directory, you can run:
 
-### `npm start`
+<h3>Tecnologias utilizadas</h3>
+<div display=flex flex-direction=row>
+<img src=https://cdn-icons-png.flaticon.com/512/1183/1183672.png alt= Logotipo do React.js width=10%>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png alt= Logotipo do Sass width=10%>
+</div>
+<h3>Desenvolvedor</h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+| <img src="https://avatars.githubusercontent.com/u/119905716?v=4" alt="Foto de perfil do desenvolvedor Israel Cabral" width=180vw><br><sub>[Israel Cabral](https://github.com/IC-Braw)</sub>
+| :--:
